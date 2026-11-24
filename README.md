@@ -1,3 +1,7 @@
+
+
+
+
 # EcoSort: AI-Powered Waste Classification System
 
 An intelligent waste management and classification web application built using Python (Flask) and a custom-trained TensorFlow/Keras MobileNetV2 deep learning model to promote proper recycling habits.
@@ -27,4 +31,6 @@ An intelligent waste management and classification web application built using P
 3. **Run the application:**
    `python server.py`
 4. **Open in browser:**
-   Go to `http://localhost:5000`
+   Go to `
+https://github.com/user-attachments/assets/f85be950-6c3d-4860-b2b6-5dc900ee3bcc
+
