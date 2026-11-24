@@ -30,7 +30,7 @@ An intelligent waste management and classification web application built using P
    `pip install -r requirements.txt`
 3. **Run the application:**
    `python server.py`
-4. **Open in browser:**
+4. **Demo video link:**
    Go to `
 https://github.com/user-attachments/assets/f85be950-6c3d-4860-b2b6-5dc900ee3bcc
 
